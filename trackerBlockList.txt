@@ -1,0 +1,41 @@
+[Adblock Plus 2.0]
+!-------------------------------------------------------------------------------
+! Title: Filter Tracker List
+! Expires: 1 days (update frequency)
+! Version: 29
+! Last modified: 22 Feb 2018
+! Homepage: www.simlict.com
+! Contribute: www.simlict.com
+! Description: This filter disables trackers
+!-------------------------------------------------------------------------------
+
+! Domains ----------------------------------------------------------------------
+||sociaplus.com
+||optimizely.com
+||gstatic.com
+||addthisedge.com
+||addthis.com
+||scorecardresearch.com
+||gemius.pl
+||dygdigital.com
+||engageya.com
+||bluekai.com
+||bkrtx.com
+||agkn.com
+||dimml.io
+||segmentify.com
+||googlesyndication.com^
+||googleadservices.com
+||flashtalking.com$domain=youtube.com
+||doubleclick.net^
+||criteo.com^
+||admost.com^
+||ad.adsmatte.com^
+||youtube.com/annotations_invideo?$object-subrequest
+||youtube.com##.video-annotations
+||js-agent.newrelic.com^
+||bam.nr-data.net/1/*
+||tags.tiqcdn.com/utag/yemeksepeti/main/prod/*
+||mackolik.com/VideoPlayer/*
+
+!-------------------------------------------------------------------------------

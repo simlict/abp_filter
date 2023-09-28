@@ -1,0 +1,47 @@
+[Adblock Plus 2.0]
+!-------------------------------------------------------------------------------
+! Title: Custom Filter List
+! Expires: 1 days (update frequency)
+! Version: 29
+! Last modified: 22 Feb 2020
+! Homepage: www.simlict.com
+! Contribute: www.simlict.com
+! Description: This filter disables some custom rules for webpages
+!-------------------------------------------------------------------------------
+
+! Custom blocking ---------------------------------------------------------
+||mackolik.com/VideoPlayer/*
+||mackolik.com##.fc-ab-root
+||tags.tiqcdn.com/utag/yemeksepeti/main/prod/*
+||bam.nr-data.net/1/*
+||js-agent.newrelic.com^
+||youtube.com##.video-annotations
+||youtube.com/annotations_invideo?$object-subrequest
+||flashtalking.com$domain=youtube.com
+@@||fonts.gstatic.com/s/titilliumweb/v6/anMUvcNT0H1YN4FII8wprxP6Eu1_xfSBSoi9uie1FdE.woff2
+
+! Domains ----------------------------------------------------------------------
+||googleadservices.com
+||googlesyndication.com^
+||segmentify.com
+||dimml.io
+||ad.adsmatte.com
+||admost.com
+||criteo.com
+||doubleclick.net^
+||kmpmedia.net
+||cloudfront.net^
+||agkn.com
+||bkrtx.com
+||bluekai.com
+||engageya.com
+||dygdigital.com
+||gemius.pl
+||scorecardresearch.com
+||addthis.com
+||addthisedge.com
+||gstatic.com
+||sociaplus.com
+||optimizely.com
+
+!-------------------------------------------------------------------------------
